@@ -4,21 +4,36 @@ O VidFlow é uma réplica simples do YouTube, criada para estudar o consumo de A
 Funcionalidades:
 
 Exibição de vídeos com título, descrição e categoria.
+
 Exibição do vídeo através de um <iframe> a partir de uma URL.
+
 Busca por título de vídeo com filtragem em tempo real.
+
 Filtro de vídeos por categoria.
+
 Tratamento de erros na requisição da API.
+
 Tecnologias Utilizadas:
 
 HTML5
+
 CSS3
+
 JavaScript (API Fetch, manipulação do DOM)
+
 Como Rodar:
 
 Faça o download ou clone este repositório.
+
 Execute o servidor localmente em http://localhost:3000 com a API de vídeos.
+
 Abra o arquivo index.html em um navegador moderno.
+
 Estudo de API:
+
 Neste projeto, o foco foi aprender a fazer requisições a uma API externa e manipular os dados retornados. 
+
 O código utiliza o método fetch() para buscar os dados em formato JSON e os exibe de forma dinâmica no HTML. 
+
 Também inclui filtragem de vídeos tanto por pesquisa quanto por categoria, permitindo interação com o conteúdo de maneira fluida.
+
