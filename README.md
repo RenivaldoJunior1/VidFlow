@@ -19,4 +19,6 @@ Faça o download ou clone este repositório.
 Execute o servidor localmente em http://localhost:3000 com a API de vídeos.
 Abra o arquivo index.html em um navegador moderno.
 Estudo de API:
-Neste projeto, o foco foi aprender a fazer requisições a uma API externa e manipular os dados retornados. O código utiliza o método fetch() para buscar os dados em formato JSON e os exibe de forma dinâmica no HTML. Também inclui filtragem de vídeos tanto por pesquisa quanto por categoria, permitindo interação com o conteúdo de maneira fluida.
+Neste projeto, o foco foi aprender a fazer requisições a uma API externa e manipular os dados retornados. 
+O código utiliza o método fetch() para buscar os dados em formato JSON e os exibe de forma dinâmica no HTML. 
+Também inclui filtragem de vídeos tanto por pesquisa quanto por categoria, permitindo interação com o conteúdo de maneira fluida.
